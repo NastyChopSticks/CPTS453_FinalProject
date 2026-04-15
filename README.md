@@ -20,10 +20,10 @@ Although this was a class assignment, it was a personal project I was highly mot
 
 ## Technologies Used
 - Python
-- :contentReference[oaicite:0]{index=0} (UI)
-- :contentReference[oaicite:1]{index=1} (geospatial data handling)
-- :contentReference[oaicite:2]{index=2} (map visualization)
-- :contentReference[oaicite:3]{index=3} (manual map/path creation)
+- Streamlit (UI)
+- GeoPandas (geospatial data handling)
+- LeafMap (map visualization)
+- QGIS (manual map/path creation)
 
 ---
 
